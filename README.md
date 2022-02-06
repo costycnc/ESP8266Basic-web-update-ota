@@ -10,6 +10,12 @@ You can upload over the air again WebUpdater.ino.generic.bin
 
 You can modify code and with Arduino menu sketch >> export compiled binary and load with http://192.168.4.1/update
 
+https://docs.google.com/document/d/1NMZvnnjZ5XNzkykINgYS_Ql6mQ3nJEAzYudbmScdiIg/pub is ESP8266 Basic Language Reference
+
+For ESP Basic 2.0 aXX
+
+HTTP://ESP8266BASIC.COM
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 You can upload espbasic in classic mode same as https://github.com/costycnc/costycnc-espbasic-adjust-errors
