@@ -1,5 +1,7 @@
 # ESP8266Basic-web-update-ota
 
+folder espbasic 3.0 is ultimate basic and find what modify and how install
+
 Inspired from esp8266 webupdater arduino examples (to add web update)
 
 You can compile webupdate mini and flash to esp8266 ... after connect with esp8266 over wifi ...
