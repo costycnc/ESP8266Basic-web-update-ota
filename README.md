@@ -16,6 +16,10 @@ For ESP Basic 2.0 aXX
 
 HTTP://ESP8266BASIC.COM
 
+# But parameters differs ... for example if want to light the led of gpio2 
+
+# need to write po 2 1 and not io(po,2,1) so parameters need to have only a space
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 You can upload espbasic in classic mode same as https://github.com/costycnc/costycnc-espbasic-adjust-errors
