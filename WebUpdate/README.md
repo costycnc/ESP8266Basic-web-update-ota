@@ -1,4 +1,4 @@
-Sample web update method
+Another sample web update method
 
 inspired from https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WebServer/examples/WebUpdate
 
